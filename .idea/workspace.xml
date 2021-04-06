@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5078ea2-dea9-4154-a9dc-a6571a5a027d" name="Default Changelist" comment="" />
+    <list default="true" id="c5078ea2-dea9-4154-a9dc-a6571a5a027d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +67,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617558143287</updated>
-      <workItem from="1617558144398" duration="2761000" />
+      <workItem from="1617558144398" duration="4007000" />
+      <workItem from="1617609135673" duration="14000" />
+      <workItem from="1617724902819" duration="2167000" />
     </task>
     <servers />
   </component>
@@ -81,6 +86,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="599" y="366" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617558601448">
@@ -91,9 +97,13 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1617558842960" />
-    <state x="597" y="315" width="597" height="490" key="find.popup" timestamp="1617559031559">
+    <state x="597" y="315" width="597" height="490" key="find.popup" timestamp="1617561631697">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="597" y="315" width="597" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1617559031559" />
+    <state x="597" y="315" width="597" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1617561631697" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1617562056254">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1617562056254" />
   </component>
 </project>
