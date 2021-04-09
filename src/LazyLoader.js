@@ -65,7 +65,6 @@ const LazyLoader = ({
     };
   }, [timeoutRef]);
 
-
   return (
     <div ref={imgRef}>
       {isVisible ? children : fallback}

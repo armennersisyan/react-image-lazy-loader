@@ -69,7 +69,12 @@
       <updated>1617558143287</updated>
       <workItem from="1617558144398" duration="4007000" />
       <workItem from="1617609135673" duration="14000" />
-      <workItem from="1617724902819" duration="2167000" />
+      <workItem from="1617724902819" duration="2347000" />
+      <workItem from="1617774986483" duration="28000" />
+      <workItem from="1617804936380" duration="227000" />
+      <workItem from="1617896773390" duration="2543000" />
+      <workItem from="1617947498576" duration="19000" />
+      <workItem from="1617982161776" duration="234000" />
     </task>
     <servers />
   </component>
@@ -97,6 +102,11 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1617558842960" />
+    <state x="100" y="128" width="1592" height="892" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617982835442">
+      <screen x="0" y="25" width="1792" height="1035" />
+    </state>
+    <state x="100" y="128" width="1592" height="892" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1617982237976" />
+    <state x="100" y="128" width="1592" height="892" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1792.1035@0.25.1792.1035" timestamp="1617982835442" />
     <state x="597" y="315" width="597" height="490" key="find.popup" timestamp="1617561631697">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
